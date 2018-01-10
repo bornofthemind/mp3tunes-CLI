@@ -1,0 +1,9 @@
+{
+	"id": "com.mp3tunes.mp3tunes",
+	"version": "1.0.0",
+	"vendor": "mp3tunes.com",
+	"type": "web",
+	"main": "index.html",
+	"title": "MP3tunes",
+	"icon": "images/icon48.png"
+}

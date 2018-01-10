@@ -1,0 +1,23 @@
+[
+    {"source": "app/assistants/stage-assistant.js"},
+    {
+        "scenes": "menu",
+        "source": "app/assistants/menu-assistant.js"
+    },
+    {
+        "scenes": "list",
+        "source": "app/assistants/list-assistant.js"
+    },
+    {
+        "scenes": "tracks",
+        "source": "app/assistants/tracks-assistant.js"
+    },
+    {
+        "scenes": "player",
+        "source": "app/assistants/player-assistant.js"
+    },
+    {
+        "scenes": "help",
+        "source": "app/assistants/help-assistant.js"
+    }
+]
